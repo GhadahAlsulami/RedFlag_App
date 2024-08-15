@@ -9,10 +9,10 @@ it is difficult for the victim to contact anyone securely and discreetly to help
 
 The proposed approach makes efficient use of them for personal security.
 
-To assist in resolving these issues this project introduces RedFlag Application, a mobile safety application that allows them to securely send their location to
+To assist in resolving these issues, this project introduces RedFlag Application, a mobile safety application that allows them to send their location to securely
 trusted friends and family in the event of an emergency. 
 
-The goal of this project is to develop and implement a dependable system for preventing women and children from being harassed. 
+The goal of this project is to develop and implement a reliable system for preventing harassment of women and children. 
 
 ---
 
@@ -21,3 +21,4 @@ The goal of this project is to develop and implement a dependable system for pre
 ---
 ## User Guide
 ![This is an image](https://github.com/riinaaa/RedFlag/blob/master/User_Guide.jpg)
+
